@@ -24,10 +24,25 @@ if (length(new_packages) > 0) {
 }
 
 packages = list(
-  "pbdZMQ" = "0.3-13",
+  "GGally" = "2.2.1",
   "IRkernel" = "1.3.2",         # required for jupyter R kernel
+  "ISLR" = "1.4",
   "knitr" = "1.49",
+  "LiblineaR" = "2.10-24",
+  "ModelMetrics" = "1.2.2.2",
+  "caret" = "7.0-1",
+  "class" = "7.3-23",
+  "dplyr" = "1.1.4",
+  "dummies" = "1.5.6",
+  "ggplot2" = "3.5.1",
+  "glmnet" = "4.1-8",
+  "gridExtra" = "2.3",
+  "mclust" = "6.1.1",
+  "pbdZMQ" = "0.3-13",
+  "plyr" = "1.8.9",
   "rmarkdown" = "2.29",
+  "sandwich" = "3.1-1",
+  "tidyverse" = "2.0.0",
   "mvtnorm" = "1.3-3"
 )
 
